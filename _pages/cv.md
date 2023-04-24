@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-(% include base_path %)
-
-**Yetunde Oladepe Rotimi**
 
 Clark School of Environmental Sustainability and Management
 
@@ -27,34 +24,34 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 # EDUCATIONAL BACKGROUND
 
 **M.Sc. Ecology and Conservation** [2021 – 2023]
-**Western Colorado University**
-**GPA:** 4.00/4.00
+-**Western Colorado University**
+-**GPA:** 4.00/4.00
 
 **B.Sc.**  **Forest and Wildlife Management** [2014 – 2019]
-**University of Ilorin**
-**Final Grade:** 3.67/4.00
+-**University of Ilorin**
+-**Final Grade:** 3.67/4.00
 
 # RESEARCH/WORK EXPERIENCE
 
 **Graduate Research Assistant** [2021 – 2023]
-**Organization** : Western Colorado University
+-**Organization** : Western Colorado University
 - Monitoring of restored wetland ecosystem using satellite and UAS images
 - Presentation of findings to stakeholders
 - Analyzing and modeling data using the R programming language
 - Seasonal field data collection and analyses
 
 **Residence Assistant** [2023]
-**Organization:** Western Colorado University (Residence Life Department)
+-**Organization:** Western Colorado University (Residence Life Department)
 - Community building and development
 - Hall operations and administrations
 
 **Eco Leader** [2022]
-**Organization** : Western Colorado University (LEAD and Sustainability Department)
+-**Organization** : Western Colorado University (LEAD and Sustainability Department)
 - Engaged in weekly recycling activities within the campus
 - Promoted multiple student engagement campaigns
 
 **Research Intern** [2017 - 2018]
-**Organizations:** Forestry Research Institute of Nigeria (FRIN), College of Forestry/Kanji Lake National Park, University of Ilorin Plantation Site
+-**Organizations:** Forestry Research Institute of Nigeria (FRIN), College of Forestry/Kanji Lake National Park, University of Ilorin Plantation Site
 - Engaged in research work and laboratory work such as carbon sequestration, tissue culture, etc.
 - Engaged in the ecological survey of plants and animals
 - Engaged in the planting and transplanting of Teak (Tectona grandis) and Vitelleria paradoxa (Shea tree) at the nursery
@@ -95,7 +92,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 # VOLUNTEERING EXPERIENCE
 
 **Secretary** [2022]
-**Organization:** A2 – Forest Technology (Society of American Foresters)
+-**Organization:** A2 – Forest Technology (Society of American Foresters)
 - Serving as group admin in the SAF online community powered by Tradewing.
 - Recording all notes duringvirtual or in-person meetings of the WG.
 
@@ -103,19 +100,19 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 [**https://www.hccacb.org/news/labor-day-stewardship-weekend-recap**](https://www.hccacb.org/news/labor-day-stewardship-weekend-recap)
 
 **HAR SER-RM Conference** [2022]
-**Organization:** Society of Ecological Restoration (SER)
+-**Organization:** Society of Ecological Restoration (SER)
 - Helped with the coordination of various conference activities such as the Panel session
 
 **Sagebrush Post-Fire Restoration Project** [2021]
-**Organization:** Western Colorado University
+-**Organization:** Western Colorado University
 - Planted sagebrush seedlings on site
 
 **National Public Land Day** [2021]
-**Organization** : Bureau of Land Management
+-**Organization** : Bureau of Land Management
 - Carried out the planting of Sagebrush in Sapinero Mesa on BLM's Land
 
 **Advocacy Officer** [2021]
-**Organization:** ODTC Consulting Firm
+-**Organization:** ODTC Consulting Firm
 - Advocated for environmental sustainability and ecological restoration through featuring in live programs
 - Creating awareness of the importance of managing the environment on a sustainable basis (Link: [www.youtu.be/ojPRuC74w\_4](http://www.youtu.be/ojPRuC74w_4) )
 
