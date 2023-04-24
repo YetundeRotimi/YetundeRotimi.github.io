@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Home"
-    url: /https://alegbeleyeokiki.wixsite.com/yetunderotimi/
+    url: /home/
 
   - title: "About"
-    url: /https://alegbeleyeokiki.wixsite.com/yetunderotimi/about/    
+    url: /about/    
 
   - title: "Research"
-    url: /https://alegbeleyeokiki.wixsite.com/yetunderotimi/research/    
+    url: /research/    
     
   - title: "Resources"
-    url: /https://alegbeleyeokiki.wixsite.com/yetunderotimi/copy-of-research-1/
+    url: /resources/
         
   - title: "Publications"
-    url: /https://alegbeleyeokiki.wixsite.com/yetunderotimi/copy-of-research/
+    url: /publications/
     
   - title: "CV"
-    url: /https://drive.google.com/file/d/19zcugeNtVcabxRhv7xkjFe59BaDK0r-F/view?usp=share_link/
+    url: /cv/
     
   - title: "Contact"
-    url: /https://alegbeleyeokiki.wixsite.com/yetunderotimi/contact/
+    url: /contact/
