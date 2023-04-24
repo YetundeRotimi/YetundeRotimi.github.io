@@ -80,33 +80,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yetunde O. Rotimi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "B.Forestry and Wildlife Management, Masters of Science In Ecology, Graduate Research Assistant"
+  location         : "Gunnison, Colorado"
+  employer         : "Western Colorado University"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=6hBUHkYAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Yetunde-Rotimi"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/rotimi.yetunde.35"
   foursquare       :
-  github           : "academicpages"
+  github           : "YetundeRotimi.github.io"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://instagram.com/r_oladepe?igshid=YmMyMTA2M2Y="
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yetunde-oladepe-rotimi-65425a1a4/"
+  orcid            : "https://orcid.org/0000-0003-1469-0551"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _Home
   - scope:
-      path: ""
-      type: posts
+      path: "https://alegbeleyeokiki.wixsite.com/yetunderotimi"
+      type: Home
     values:
       layout: single
       author_profile: true
@@ -202,17 +202,17 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _About
   - scope:
-      path: ""
-      type: pages
+      path: "https://alegbeleyeokiki.wixsite.com/yetunderotimi/about"
+      type: About
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _Research
   - scope:
       path: ""
-      type: teaching
+      type: Research
     values:
       layout: single
       author_profile: true
@@ -227,21 +227,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _CV
   - scope:
-      path: ""
-      type: portfolio
+      path: "https://drive.google.com/file/d/19zcugeNtVcabxRhv7xkjFe59BaDK0r-F/view?usp=share_link"
+      type: CV
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Contact
   - scope:
       path: ""
-      type: talks
+      type: Contact
     values:
-      layout: talk
+      layout: 
       author_profile: true
       share: true
 
