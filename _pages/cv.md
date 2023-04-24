@@ -1,4 +1,4 @@
-![Shape1](RackMultipart20230424-1-ohpnqm_html_a84164597055fd07.gif)
+
 
 **Yetunde Oladepe Rotimi**
 
@@ -10,22 +10,13 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 
 [**LinkedIn**](https://www.linkedin.com/in/yetunde-oladepe-rotimi-65425a1a4/) **,** [**Website**](http://alegbeleyeokiki.wixsite.com/yetunderotimi) **,** [**ORCID**](https://orcid.org/0000-0003-1469-0551)
 
-|
-# RESEARCH INTERESTS
- |
-| --- |
 
+# RESEARCH INTERESTS
 **Forest Ecology, Ecosystem Services, Conservation, Spatial Ecology, Remote Sensing, and GIS**
 
-|
 # EDUCATIONAL BACKGROUND
- |
-| --- |
-
 **M.Sc. Ecology and Conservation** [2021 – 2023]
-
 **Western Colorado University**
-
 **GPA:** 4.00/4.00
 
 **B.Sc.**  **Forest and Wildlife Management** [2014 – 2019]
