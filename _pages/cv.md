@@ -21,11 +21,11 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 
 
 # RESEARCH INTERESTS
-======
+
 **Forest Ecology, Ecosystem Services, Conservation, Spatial Ecology, Remote Sensing, and GIS**
 
 # EDUCATIONAL BACKGROUND
-======
+
 **M.Sc. Ecology and Conservation** [2021 – 2023]
 **Western Colorado University**
 **GPA:** 4.00/4.00
@@ -35,7 +35,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 **Final Grade:** 3.67/4.00
 
 # RESEARCH/WORK EXPERIENCE
-======
+
 **Graduate Research Assistant** [2021 – 2023]
 **Organization** : Western Colorado University
 - Monitoring of restored wetland ecosystem using satellite and UAS images
@@ -60,14 +60,14 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 - Engaged in the planting and transplanting of Teak (Tectona grandis) and Vitelleria paradoxa (Shea tree) at the nursery
 
 # PROJECTS, CONFERENCE PROCEEDINGS, AND PUBLICATIONS
-======
+
 - Babalola, F.D., Rotimi, Y., & Paxie, W.C. (2022). Towards Transformation of Agricultural Landscapes: Determining of Agroforestry Tree Species Producing Beneficial Ecosystem Services to Local Farmers inNigeria. [https://www.researchgate.net/publication/362372626](https://www.researchgate.net/publication/362372626)
 - Maness, P., Cristadoro, L., & Rotimi, Y. (2022). Development of a website for the imperiled wetlands in the Niger Delta of Nigeria. [https://triceratops-platinum-7haw.squarespace.com/config/](https://triceratops-platinum-7haw.squarespace.com/config/)
 - Rotimi, Y.O. (2022). Geospatial Analysis of Soil Moisture Content Using Satellite Images
 - Garett, S., Cussins, J., Harvey, C., Rotimi, Y., & Simnic, P. (2021). Do Aspens Influence Wildfire Severity AndSpread?
 
 # CONFERENCES AND SEMINARS
-======
+
 - Poster presenter at American Geophysical Union Meeting (AGU), Chicago Illinois [2022]
 - Delegate, Women Forest Congress, Minneapolis ([https://womensforestcongress.org/2022-congress/delegates/](https://womensforestcongress.org/2022-congress/delegates/) )[2022]
 - Poster presenter at High Altitude Revegetation (HAR) HAR SER-RM Conference, Colorado State University, [2022]
@@ -79,7 +79,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 - Nigeria Society on Environmental Conservation (NSEC) maiden conference on the future of biodiversity conservation in Nigeria: individual roles,University of Ilorin. [2016]
 
 # HONOURS AND AWARDS
-======
+
 - Student and Young Professional Scholarship to attend the Sustainable Forestry Annual Conference [2023]
 - AGU Fall meeting Indigenous community award [2022]
 - Professional Development Travel Award to participate in Women Forest Congress in Minneapolis, Western Colorado University. [2022]
@@ -93,7 +93,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 - Second runner-up in the 100m race and 4 by 100m relay race in FEDCOL (All Federal Government Colleges) Games,Federal Government of Nigeria. [2012]
 
 # VOLUNTEERING EXPERIENCE
-======
+
 **Secretary** [2022]
 **Organization:** A2 – Forest Technology (Society of American Foresters)
 - Serving as group admin in the SAF online community powered by Tradewing.
@@ -120,7 +120,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 - Creating awareness of the importance of managing the environment on a sustainable basis (Link: [www.youtu.be/ojPRuC74w\_4](http://www.youtu.be/ojPRuC74w_4) )
 
 # TRAINING/CERTIFICATIONS
-======
+
 - **S-130 Firefighter Training** [2023]
 - **Spectral Ecology Summer School** [2023]
 - **PLT Green Mentor program** [2023]
@@ -141,7 +141,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 - **Protected Areas Management in Africa,** IUCN-PAPACO **[**2021]
 
 # FIELDWORKS
-======
+
 **Primer/Practicum: Field trips to Willow and Razor Creek** [2022]
 - Built one rock dam and rock rundown features
 - Built Beaver Dam Analogues (BDA)
@@ -159,12 +159,12 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 - Learned about the use of UAS in estimating vegetation productivity
 
 # DIGITAL AND PROFESSIONAL SKILLS
-======
+
 - Microsoft Word / Microsoft Excel /Microsoft PowerPoint / Microsoft Office /
 - Good listener and communicator / Organizational and planning skills / Teamwork oriented / Written and Verbal skills / Presenting/R programming/Geospatial analysis skills (QGIS, ArcGIS, SNAP software)/PIX4Dmapper
 
 # NETWORKS AND MEMBERSHIPS
-======
+
 - Member of Minorities in Agriculture, Natural Resources, and Related Sciences (MANRRS)
 - Member, Society of American Foresters [United States]
 - Member, American Geophysical Union [United States]
