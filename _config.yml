@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _Home
+  # _posts
   - scope:
-      path: "https://alegbeleyeokiki.wixsite.com/yetunderotimi"
-      type: Home
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -202,17 +202,17 @@ defaults:
       comments: true
       share: true
       related: true
-  # _About
+  # _pages
   - scope:
-      path: "https://alegbeleyeokiki.wixsite.com/yetunderotimi/about"
-      type: About
+      path: ""
+      type: pages
     values:
       layout: single
       author_profile: true
-  # _Research
+  # _teaching
   - scope:
       path: ""
-      type: Research
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -227,19 +227,19 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _CV
+  # _portfolio
   - scope:
-      path: "https://drive.google.com/file/d/19zcugeNtVcabxRhv7xkjFe59BaDK0r-F/view?usp=share_link"
-      type: CV
+      path: ""
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _Contact
+  # _talks
   - scope:
       path: ""
-      type: Contact
+      type: talks
     values:
       layout: 
       author_profile: true
