@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Conference Papers
-Towards Transformation of Agricultural Landscapes: Determination of Agroforestry Tree Species Producing Beneficial Ecosystem Services to Local Farmers in Nigeria
+- Towards Transformation of Agricultural Landscapes: Determination of Agroforestry Tree Species Producing Beneficial Ecosystem Services to Local Farmers in Nigeria
 
   Authors             : "Folaranmi Babalola, Rotimi Yetunde, Paxie Chirwa"
   
