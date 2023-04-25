@@ -19,21 +19,24 @@ Research Interests
 - Geographic Information system
 - Wetland Ecology
 
-Getting started
+Education
+------
+- 2014 -2019   B.Sc. Forestry and Wildlife Management (Hons) University of Ilorin, Nigeria
+- 2021-2023    M.Sc. Ecology Western Colorado University, Colorado, USA
+
+Employment
+------
+Western Colorado University:  Graduate Research Assistant
+- Evaluating the effectiveness of restoration activities on restored wet  Meadows
+- Engaging in Soil Moisture (SM) monitoring on restored wet meadows using installed loggers and sensors
+- Predicting Soil Moisture on restored wet meadows using satellite and UAS images    
+
+Past and Present Academic Advisors
 ======
-Site-wide configuration
-------
-Create content & metadata
-------
+- Dr. Folaranmi Babalola (https://ng.linkedin.com/in/folaranmi-babalola-phd-4025ab36)
+- Dr. Jennie DeMarco (https://www.jenniedemarco.com/)
 
-
-How to edit your site's GitHub repository
+For More Information
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+https://yetunderotimi.github.io/cv/ 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
