@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Research Gate profile</a>.</u>
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Goggle Scholar profile</a>.</u>
 {% endif %}
 
 https://www.researchgate.net/profile/Yetunde-Rotimi
