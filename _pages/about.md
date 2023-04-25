@@ -12,12 +12,12 @@ I am a young researcher in the field of ecological sciences. I hold a bachelor's
 
 Research Interests
 ======
-"Remote sensing"
-"Unmanned Aerial System"
-"Restoration Ecology"
-"Ecosystem Services"
-"Geographic Information system"
-"Wetland Ecology"
+-Remote sensing
+-Unmanned Aerial System
+-Restoration Ecology
+-Ecosystem Services
+-Geographic Information system
+-Wetland Ecology
 
 Getting started
 ======
