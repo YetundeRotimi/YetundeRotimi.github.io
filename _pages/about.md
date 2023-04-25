@@ -21,8 +21,8 @@ Research Interests
 
 Education
 ------
-- 2014 -2019   B.Sc. Forestry and Wildlife Management (Hons) University of Ilorin, Nigeria
-- 2021-2023    M.Sc. Ecology Western Colorado University, Colorado, USA
+- 2014 -2019    B.Sc. Forestry and Wildlife Management (Hons) (University of Ilorin, Nigeria)
+- 2021-2023     M.Sc. Ecology (Western Colorado University, Colorado, USA)
 
 Employment
 ------
