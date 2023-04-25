@@ -103,7 +103,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 
 **Organization:** A2 – Forest Technology (Society of American Foresters)
 - Serving as group admin in the SAF online community powered by Tradewing.
-- Recording all notes duringvirtual or in-person meetings of the WG.
+- Recording all notes during virtual or in-person meetings of the Working group.
 
 **High Country Conservation Advocates** [2022]
 [**https://www.hccacb.org/news/labor-day-stewardship-weekend-recap**](https://www.hccacb.org/news/labor-day-stewardship-weekend-recap)
@@ -127,7 +127,7 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 
 **Organization:** ODTC Consulting Firm
 - Advocated for environmental sustainability and ecological restoration through featuring in live programs
-- Creating awareness of the importance of managing the environment on a sustainable basis (Link: [www.youtu.be/ojPRuC74w\_4](http://www.youtu.be/ojPRuC74w_4) )
+- Created awareness of the importance of managing the environment on a sustainable basis (Link: [www.youtu.be/ojPRuC74w\_4](http://www.youtu.be/ojPRuC74w_4) )
 
 # TRAINING/CERTIFICATIONS
 
@@ -175,12 +175,12 @@ Western Colorado University, Gunnison, Colorado, USA 81231.
 
 # NETWORKS AND MEMBERSHIPS
 
-- Member of Minorities in Agriculture, Natural Resources, and Related Sciences (MANRRS)
+- Member, Minorities in Agriculture, Natural Resources, and Related Sciences (MANRRS)
 - Member, Society of American Foresters [United States]
 - Member, American Geophysical Union [United States]
 - Member, Society of Ecological Restoration [United States]
 - Alumna, University of Ilorin Forestry Students' Association (UFSA) [Nigeria, Current]
-- Member, of the Young Africa Leaders Initiative (YALI) network [Africa, Current]
-- Member, of the Forestry Association of Nigeria (FAN [Nigeria, Current]
-- Member, of the International Forestry Students' Association (IFSA)
+- Member, Young Africa Leaders Initiative (YALI) network [Africa, Current]
+- Member, Forestry Association of Nigeria (FAN [Nigeria, Current]
+- Member, International Forestry Students' Association (IFSA)
 
